@@ -3681,8 +3681,8 @@ nav ul a span.badge {
     left: auto;
     right: auto;
   }
-  .row .col.m4 {
-    width: 33.3333333333%;
+  .row .col.m15 {
+    width: 100%;
     margin-left: auto;
     left: auto;
     right: auto;
@@ -3734,6 +3734,34 @@ nav ul a span.badge {
     margin-left: auto;
     left: auto;
     right: auto;
+  }
+  .row .col.m13 {
+    width: 100%;
+    margin-left: auto;
+    left: auto;
+    right: auto;
+  }
+  .row .col.m14 {
+    width: 100%;
+    margin-left: auto;
+    left: auto;
+    right: auto;
+  }
+  .row .col.m4 {
+    width: 33.3333333333%;
+    margin-left: auto;
+    left: auto;
+    right: auto;
+  }
+  .center-img{
+    display: block;
+    margin: auto;
+    width: 60%;
+  }
+  .center-img-big{
+    display: block;
+    margin: auto;
+    width: 80%;
   }
   .row .col.offset-m1 {
     margin-left: 8.3333333333%;

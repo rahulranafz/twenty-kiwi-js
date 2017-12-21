@@ -3687,6 +3687,34 @@ nav ul a span.badge {
     left: auto;
     right: auto;
   }
+  .row .col.m13 {
+    width: 100%;
+    margin-left: auto;
+    left: auto;
+    right: auto;
+  }
+  .row .col.m14 {
+    width: 100%;
+    margin-left: auto;
+    left: auto;
+    right: auto;
+  }
+  .row .col.m15 {
+    width: 100%;
+    margin-left: auto;
+    left: auto;
+    right: auto;
+  }
+  .center-img{
+    display: block;
+    margin: auto;
+    width: 60%;
+  }
+  .center-img-big{
+    display: block;
+    margin: auto;
+    width: 80%;
+  }
   .row .col.m5 {
     width: 41.6666666667%;
     margin-left: auto;
